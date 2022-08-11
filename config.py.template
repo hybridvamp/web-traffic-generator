@@ -6,7 +6,7 @@ DEBUG = True  # set to True to enable useful console output
 
 # use this single item list to test how a site responds to this crawler
 # be sure to comment out the list below it.
-ROOT_URLS = ["https://adsly.me/ad/0vqpHvzzrM"]
+ROOT_URLS = ["https://adsly.me/ad/8ECLDYUar6"]
 
 
 # items can be a URL "https://t.co" or simple string to check for "amazon"
